@@ -6,3 +6,7 @@ The use case is for making taskbar shortcuts, that ask you if you really want to
 I made this app becuase I always accedentally open Blender or Photoshop when I have other things like a game running, and I wanted away to confrim my misclicks on my taskbar.
 
 One known issue is that Win11's right click "Copy as path" includes quotes, I have no idea what happens if you don't delete those, I never tested it. The text boxes also don't have any file path syntax validation.
+
+The release build was made with Costura
+https://github.com/Fody/Costura
+https://opencollective.com/fody
